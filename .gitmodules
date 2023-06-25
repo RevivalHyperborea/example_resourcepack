@@ -1,3 +1,6 @@
 [submodule "assets/ae2fc"]
 	path = assets/ae2fc
 	url = https://github.com/RevivalHyperborea/ae2fc
+[submodule "assets/ae2stuff"]
+	path = assets/ae2stuff
+	url = https://github.com/RevivalHyperborea/ae2stuff.git
