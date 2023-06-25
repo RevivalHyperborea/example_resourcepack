@@ -4,3 +4,6 @@
 [submodule "assets/ae2stuff"]
 	path = assets/ae2stuff
 	url = https://github.com/RevivalHyperborea/ae2stuff.git
+[submodule "assets/applecore"]
+	path = assets/applecore
+	url = https://github.com/RevivalHyperborea/applecore
